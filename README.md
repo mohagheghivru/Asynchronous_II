@@ -3,4 +3,5 @@ This repository contains the implementation and logs for the paper "Asynchronous
 To run experiments:
  - enter the PRISM directory and type "make"
  - run .sh files for the experiments of the paper.
+ 
 In some cases, upper bounds are set manually according to the related computed values from explicit engie. In these cases, the sparse engine does not provide finite upper bounds. 
